@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia, inovação e transformação digital. Tenho uma veia empreendedora e acredito que a tecnologia pode (e deve!) ser acessível, simples e gerar impacto real.<br><br>Atualmente, estou focada em desenvolver minhas habilidades em Front-End, com projetos em HTML, CSS, JavaScript e React, além de aprender Python e Java para construir uma base sólida como dev full stack.</p>
+<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia, inovação e transformação digital. Tenho uma veia empreendedora e acredito que a tecnologia pode (e deve!) ser acessível, simples e gerar impacto real.<br><br>Atualmente, estou direcionando meus estudos para a área de desenvolvimento backend, com foco em Python e Java. Tenho me dedicado à criação de novos projetos que me desafiem e fortaleçam minha base técnica, enquanto aplico na prática tudo o que venho aprendendo.
+
+Também tenho experiência com desenvolvimento web e continuo explorando ferramentas como HTML, CSS, JavaScript e React para manter uma visão completa do ciclo de desenvolvimento.</p>
 
 ###
 
