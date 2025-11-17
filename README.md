@@ -2,9 +2,13 @@
 
 ###
 
-<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia, inovação e transformação digital. Tenho uma veia empreendedora e acredito que a tecnologia pode (e deve!) ser acessível, simples e gerar impacto real.<br><br>Atualmente, estou direcionando meus estudos para a área de desenvolvimento backend, com foco em Python e Java. Tenho me dedicado à criação de novos projetos que me desafiem e fortaleçam minha base técnica, enquanto aplico na prática tudo o que venho aprendendo.
+<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas com foco em Dados e Inteligência Artificial. Tenho interesse em transformar informações em soluções práticas, escaláveis e capazes de gerar impacto real. Minha trajetória empreendedora reforçou minha capacidade de resolver problemas, analisar cenários e entregar resultados usando tecnologia de forma estratégica.
 
-Também tenho experiência com desenvolvimento web e continuo explorando ferramentas como HTML, CSS, JavaScript e React para manter uma visão completa do ciclo de desenvolvimento.</p>
+Atualmente, direciono meus estudos para Python, SQL, ETL, Machine Learning e IA Generativa, explorando desde análise e modelagem de dados até a criação de modelos e automações orientadas a IA. Tenho aplicado esses conhecimentos em projetos práticos para fortalecer minha base técnica e desenvolver soluções data-driven.
+
+Também mantenho experiência com desenvolvimento web, o que me ajuda a integrar dados, APIs e aplicações de forma completa e eficiente. Estou construindo projetos que unem lógica, IA e engenharia de dados para evoluir continuamente na área.
+
+Busco aprender, experimentar e criar soluções inteligentes que conectem dados, tecnologia e impacto.</p>
 
 ###
 
